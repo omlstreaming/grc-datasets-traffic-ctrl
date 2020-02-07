@@ -18,3 +18,4 @@ Some example data depicting the number of cars in the 6 crosses in 40 minutes (e
 | 92|46|39|58|26|98 |
 | 80|31|21|45|29|93 |
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3653880.svg)](https://doi.org/10.5281/zenodo.3653880)
